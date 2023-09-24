@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+.cerceve
+{ margin:20px auto; width:1000px; height:830px; }
+.banner
+{
+	float:left;
+	background:url(img/banner.jpg);
+	width:1000px;
+	height:143px;
+	margin:0 0 10px 0;	
+}
+.menu
+{
+	float:left;
+	width:1000px;
+	height:60px;
+	background:#00593D;
+	margin:0 0 10px 0;
+}
+.menu ul
+{
+	margin:0;
+	padding:0;
+	list-style:none;	
+}
+.menu ul li
+{ float:left; }
+.menu ul li a
+{
+	display:block;
+	width:165px;
+	height:33px;
+	text-align:center;
+	text-decoration:none;
+	font:bold 14px Arial, Helvetica, sans-serif;
+	color:#FFFFFF;
+	padding:18px 0 0 0;	
+}
+.menu ul li a:hover
+{
+	text-decoration:underline;	
+}
+.sol
+{
+	float:left;
+	width:240px;
+	height:500px;
+	background:#00593D;
+	margin:0 10px 10px 10px;
+}
+.icerik
+{
+	float:left;
+	width:730px;
+	height:500px;
+	background:#00593D;
+	margin:0 10px 10px 0;
+	color:#FFFFFF;
+}
+.footer
+{
+	float:left;
+	width:1000px;
+	height:75px;
+	background:#00593D;
+	text-align:center;
+	padding:25px 0 0 0;
+	font:bold 23px Verdana, Geneva, sans-serif;
+	color:#FFF;	
+}
